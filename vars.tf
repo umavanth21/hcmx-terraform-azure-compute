@@ -103,5 +103,9 @@ variable "os_version" {
 
 variable "domain_name_label" {
    type   = string
-  default = "ameydw1234"
+  default = "umas1234"
+  }
+variable "" {
+   type   = string
+ 
   }
